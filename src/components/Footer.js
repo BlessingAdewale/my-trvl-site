@@ -62,7 +62,7 @@ function Footer() {
                            TRVL <i className="fab fa-typo3"> </i>
                        </Link>
                    </div>
-                   <small className="website-rights">TRVL © 2022. All Rights Reserved. Made With 💛 by Adeleke Blessing.</small>
+                   <small className="website-rights"> TRVL © 2022. All Rights Reserved. Made With 💛 by Adeleke Blessing.</small>
                    <div class='social-icons'>
                         <Link
                         class='social-icon-link facebook'

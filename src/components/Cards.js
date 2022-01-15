@@ -14,14 +14,14 @@ function Cards() {
             <h1>Check out these EPIC Destinations!</h1>
             <div className="cards__container">
                 <div className="cards__wrapper">
-                    <ul className="cards__items_">
+                    <ul className="cards__items">
                         <CardItem
                         src={Img9}
                         text= "Explore the hidden waterfall deep inside the Amazon Jungle"
                         label="Adventure"
                         path="/Services"
                          />
-                         <CardItem
+                        <CardItem
                         src={Img2}
                         text= "Travel through the Islands of Bali in a Private Cruise"
                         label="Luxury"
